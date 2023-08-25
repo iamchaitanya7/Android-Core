@@ -1,0 +1,2 @@
+rootProject.name = "Acitvity Lifecyle Example"
+include ':app'
